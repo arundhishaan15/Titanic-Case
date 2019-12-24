@@ -1,4 +1,4 @@
-# Titanic-Case
+# Titanic-Survivors
 
 Guess who survived on the titanic?
   - A champion model on the logistic regression is created to identify variables and predict survivors on the ship.
