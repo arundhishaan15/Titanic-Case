@@ -1,6 +1,6 @@
 # Titanic-Survivors
 
-**Interactive Dashboard done using Plotly and Shiny**
+**Interactive Dashboard done using Plotly and Shiny:** https://arundhishaan.shinyapps.io/Rprojects/
 
 Guess who survived on the titanic?
   - A champion model on the logistic regression is created to identify variables and predict survivors on the ship.
